@@ -1,0 +1,10 @@
+D:\visual studio 2015\C#_Applications_Forms\oop_in_c_sharp\oop_in_c_sharp\bin\Debug\oop_in_c_sharp.exe.config
+D:\visual studio 2015\C#_Applications_Forms\oop_in_c_sharp\oop_in_c_sharp\obj\Debug\oop_in_c_sharp.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\C#_Applications_Forms\oop_in_c_sharp\oop_in_c_sharp\obj\Debug\oop_in_c_sharp.Properties.Resources.resources
+D:\visual studio 2015\C#_Applications_Forms\oop_in_c_sharp\oop_in_c_sharp\obj\Debug\oop_in_c_sharp.csproj.GenerateResource.Cache
+D:\visual studio 2015\C#_Applications_Forms\oop_in_c_sharp\oop_in_c_sharp\bin\Debug\oop_in_c_sharp.exe
+D:\visual studio 2015\C#_Applications_Forms\oop_in_c_sharp\oop_in_c_sharp\bin\Debug\oop_in_c_sharp.pdb
+D:\visual studio 2015\C#_Applications_Forms\oop_in_c_sharp\oop_in_c_sharp\obj\Debug\oop_in_c_sharp.exe
+D:\visual studio 2015\C#_Applications_Forms\oop_in_c_sharp\oop_in_c_sharp\obj\Debug\oop_in_c_sharp.pdb
+D:\visual studio 2015\C#_Applications_Forms\oop_in_c_sharp\oop_in_c_sharp\obj\Debug\oop_in_c_sharp.Form2.resources
+D:\visual studio 2015\C#_Applications_Forms\oop_in_c_sharp\oop_in_c_sharp\obj\Debug\oop_in_c_sharp.Form3.resources
